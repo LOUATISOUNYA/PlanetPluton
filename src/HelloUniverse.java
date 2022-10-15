@@ -1,10 +1,16 @@
 public class HelloUniverse {
+
     public static void main(String... args){
-        System.out.println("Aux dernières nouvelles, le nombre total de planètes dans le système solaire est de :");
-        int nombreTotalPlanete = 8;
-        System.out.println(nombreTotalPlanete);
-        System.out.println("Il y a quelques années cependant, elles étaient au nombre de :");
-        nombreTotalPlanete=9;
-        System.out.println(nombreTotalPlanete);
+        String phrase="Aux dernières nouvelles, le nombre total de planètes dans le système solaire est de : ";
+        System.out.println(phrase);
+        int nbPlanetes=8;
+        System.out.println(nbPlanetes);
+        phrase="Il y a quelques années cependant, elles étaient au nombre de : ";
+        System.out.println(phrase);
+        int nbPlanetesPluton=++nbPlanetes;
+        System.out.println(nbPlanetesPluton);
+
     }
+
+
 }
