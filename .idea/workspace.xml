@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Le cas de Pluton Version 2 - Première variable de type String">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Cocncaténation chaine de caratccéres">
       <change beforePath="$PROJECT_DIR$/src/HelloUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloUniverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665854549173</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Le cas de Pluton Version 2 - Opérateur d'incrémentation">
+      <created>1665861669240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665861669240</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cocncaténation chaine de caratccéres">
+      <created>1665867135336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665867135336</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +203,8 @@
     <MESSAGE value="fisrt commit" />
     <MESSAGE value="variable section" />
     <MESSAGE value="Le cas de Pluton Version 2 - Première variable de type String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Le cas de Pluton Version 2 - Première variable de type String" />
+    <MESSAGE value="Le cas de Pluton Version 2 - Opérateur d'incrémentation" />
+    <MESSAGE value="Cocncaténation chaine de caratccéres" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cocncaténation chaine de caratccéres" />
   </component>
 </project>
