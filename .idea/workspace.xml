@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Cocncaténation chaine de caratccéres">
-      <change beforePath="$PROJECT_DIR$/src/HelloUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloUniverse.java" afterDir="false" />
+    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Le cas de Pluton Version 4 - Opérateur de concaténation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="OperatorConcat" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -36,6 +37,14 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="OperatorConcatenate" />
+                    <option name="lastUsedInstant" value="1665867429" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="OperatorConcat" />
+                    <option name="lastUsedInstant" value="1665867371" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="VariableSection" />
                     <option name="lastUsedInstant" value="1665852101" />
@@ -71,6 +80,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/sonia/IntelliJ-Junior-Project/HelloUniverse",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -118,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665867135336</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Le cas de Pluton Version 4 - Opérateur de concaténation">
+      <created>1665867449428</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665867449428</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +222,7 @@
     <MESSAGE value="Le cas de Pluton Version 2 - Première variable de type String" />
     <MESSAGE value="Le cas de Pluton Version 2 - Opérateur d'incrémentation" />
     <MESSAGE value="Cocncaténation chaine de caratccéres" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cocncaténation chaine de caratccéres" />
+    <MESSAGE value="Le cas de Pluton Version 4 - Opérateur de concaténation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Le cas de Pluton Version 4 - Opérateur de concaténation" />
   </component>
 </project>
