@@ -1,16 +1,81 @@
 public class HelloUniverse {
     public static void main(String... args){
-       int age = 30;
-        System.out.printf("Mon age est %d ans .", age);
-        if (age > 30) {
-            System.out.println("oui, je fais plus jeune");
-        }
-         int ageDuCapitaine = 20;
-        if (ageDuCapitaine > 20 && age <50) {
-            System.out.println("L'age du capitaine est"+ ageDuCapitaine);
-            System.out.println("Hello");
-            System.out.println("World !");
+      // int mois=7 ;
+        String mois="Mars";
+     /*  switch (mois) {
+           case 1 :
+               System.out.println("Janvier");
+               break;
+case 2 :
+               System.out.println("Février");
+               break;
+case 3 :
+                  System.out.println("Mars");
+                break;
+case 4 :
+                  System.out.println("Avril");
+                break;
+case 5 :
+                  System.out.println("Mai");
+                break;
+case 6 :
+                  System.out.println("Juin");
+                break;
+case 7 :
+                  System.out.println("Juillet");
+                break;
+case 8 :
+                  System.out.println("Aout");
+       }*/
 
+   /*     switch (mois) {
+            case 1 :
+            case 2 :
+            case 3 :
+                System.out.println("C'est l'hiver");
+                break;
+            case 4 :
+            case 5 :
+            case 6 :
+                System.out.println("C'est le printemps");
+                break;
+            case 7 :
+            case 8 :
+            case 9 :
+                System.out.println("C'est l'été");
+                break;
+            case 10 :
+            case 11 :
+            case 12 :
+                System.out.println("C'est l'automne");
+                break;
+            default:
+                System.out.println("Ce n'est pas un mois");
+        }*/
+
+        switch (mois){
+            case "Janvier":
+            case "Février":
+            case "Mars":
+                System.out.println("C'est l'hiver");
+                break;
+            case "Avril":
+            case "Mai":
+            case "Juin":
+                System.out.println("C'est le printemps");
+                break;
+            case "Juillet":
+            case "Aout":
+            case "Septembre":
+                System.out.println("C'est l'été");
+                break;
+            case "Octobre":
+            case "Novembre":
+            case "Décembre":
+                System.out.println("C'est l'automne");
+                break;
+            default:
+                System.out.println("Ce n'est pas un mois");
         }
     }
 }
