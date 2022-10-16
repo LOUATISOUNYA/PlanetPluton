@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Affichage conditionnel - switch-case-v1.2 - with string choise">
+    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Affichage conditionnel - Pluton Planet - switch case">
       <change beforePath="$PROJECT_DIR$/src/HelloUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloUniverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Swich-Case" />
+        <entry key="$PROJECT_DIR$" value="Switch_case_PlutonPlanet" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +36,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="IterativeFor" />
+                    <option name="lastUsedInstant" value="1665925381" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="Switch_case_PlutonPlanet" />
                     <option name="lastUsedInstant" value="1665923862" />
@@ -51,10 +55,6 @@
                   <RecentBranch>
                     <option name="branchName" value="VariableSection" />
                     <option name="lastUsedInstant" value="1665875995" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1665851984" />
                   </RecentBranch>
                 </list>
               </option>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665917431449</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Affichage conditionnel - Pluton Planet - switch case">
+      <created>1665923926550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665923926550</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +240,7 @@
     <MESSAGE value="Affichage conditionnel - switch-case-v1.0" />
     <MESSAGE value="Affichage conditionnel - switch-case-v1.1" />
     <MESSAGE value="Affichage conditionnel - switch-case-v1.2 - with string choise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Affichage conditionnel - switch-case-v1.2 - with string choise" />
+    <MESSAGE value="Affichage conditionnel - Pluton Planet - switch case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Affichage conditionnel - Pluton Planet - switch case" />
   </component>
 </project>
