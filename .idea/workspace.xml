@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Affichage conditionnel - Première instruction conditionnelle-update">
+    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Affichage conditionnel - if else if">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_16_22_1_19_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_16_22_1_19_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_16_22_1_19_AM__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_16_22_1_19_AM__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_16_22_1_20_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_16_22_1_20_AM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HelloUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloUniverse.java" afterDir="false" />
     </list>
@@ -23,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="VariableSection" />
+        <entry key="$PROJECT_DIR$" value="StructureConditionnelle" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +40,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Swich-Case" />
+                    <option name="lastUsedInstant" value="1665915888" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="Deboggage" />
                     <option name="lastUsedInstant" value="1665876048" />
