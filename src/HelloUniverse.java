@@ -15,6 +15,7 @@ public class HelloUniverse {
             } else {
                 nbPlanets = 8;
             }
+
             System.out.printf(phraseIntro, annee, nbPlanets);
         }
     }
