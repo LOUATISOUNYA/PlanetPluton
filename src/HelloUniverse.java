@@ -1,81 +1,20 @@
 public class HelloUniverse {
-    public static void main(String... args){
-      // int mois=7 ;
-        String mois="Mars";
-     /*  switch (mois) {
-           case 1 :
-               System.out.println("Janvier");
-               break;
-case 2 :
-               System.out.println("Février");
-               break;
-case 3 :
-                  System.out.println("Mars");
+    public static void main(String... args) {
+        short annee=2120;
+        int nbPlanetes=7;
+        switch (nbPlanetes) {
+            case 7:
+                System.out.println("On sait qu'au 16ème siècle, seules 7 planètes avaient été découvertes");
                 break;
-case 4 :
-                  System.out.println("Avril");
+            case 8:
+                System.out.println("On sait que le nombre de planètes est passé de 7 à 8 au 17ème siècle, mais il a également été réduit de 9 à 8 en 2006");
                 break;
-case 5 :
-                  System.out.println("Mai");
-                break;
-case 6 :
-                  System.out.println("Juin");
-                break;
-case 7 :
-                  System.out.println("Juillet");
-                break;
-case 8 :
-                  System.out.println("Aout");
-       }*/
-
-   /*     switch (mois) {
-            case 1 :
-            case 2 :
-            case 3 :
-                System.out.println("C'est l'hiver");
-                break;
-            case 4 :
-            case 5 :
-            case 6 :
-                System.out.println("C'est le printemps");
-                break;
-            case 7 :
-            case 8 :
-            case 9 :
-                System.out.println("C'est l'été");
-                break;
-            case 10 :
-            case 11 :
-            case 12 :
-                System.out.println("C'est l'automne");
+            case 9:
+                System.out.println("On sait que le nombre de planètes est passé de 8 à 9 au 18ème siècle et ce jusqu'en 2006, où ce nombre a été réduit à 8");
                 break;
             default:
-                System.out.println("Ce n'est pas un mois");
-        }*/
+                System.out.printf("Le programme ne peut pas fournir de résultat pour %d", nbPlanetes);
 
-        switch (mois){
-            case "Janvier":
-            case "Février":
-            case "Mars":
-                System.out.println("C'est l'hiver");
-                break;
-            case "Avril":
-            case "Mai":
-            case "Juin":
-                System.out.println("C'est le printemps");
-                break;
-            case "Juillet":
-            case "Aout":
-            case "Septembre":
-                System.out.println("C'est l'été");
-                break;
-            case "Octobre":
-            case "Novembre":
-            case "Décembre":
-                System.out.println("C'est l'automne");
-                break;
-            default:
-                System.out.println("Ce n'est pas un mois");
         }
     }
 }

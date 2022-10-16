@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Affichage conditionnel - switch-case-v1.1">
+    <list default="true" id="eebe27f6-5ad4-4c83-a11e-fc35e71fd283" name="Changes" comment="Affichage conditionnel - switch-case-v1.2 - with string choise">
       <change beforePath="$PROJECT_DIR$/src/HelloUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloUniverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="StructureConditionnelle" />
+        <entry key="$PROJECT_DIR$" value="Swich-Case" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +36,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Switch_case_PlutonPlanet" />
+                    <option name="lastUsedInstant" value="1665923862" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="Swich-Case" />
                     <option name="lastUsedInstant" value="1665915888" />
@@ -133,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665917320519</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Affichage conditionnel - switch-case-v1.2 - with string choise">
+      <created>1665917431449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665917431449</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +232,7 @@
     <MESSAGE value="Le cas de Pluton Version 2 - Opérateur d'incrémentation" />
     <MESSAGE value="Affichage conditionnel - switch-case-v1.0" />
     <MESSAGE value="Affichage conditionnel - switch-case-v1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Affichage conditionnel - switch-case-v1.1" />
+    <MESSAGE value="Affichage conditionnel - switch-case-v1.2 - with string choise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Affichage conditionnel - switch-case-v1.2 - with string choise" />
   </component>
 </project>
